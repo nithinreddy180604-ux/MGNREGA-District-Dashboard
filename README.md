@@ -1,2 +1,19 @@
-# MGNREGA-District-Dashboard
-MGNREGA District Dashboard — a mobile-first web app that lets any citizen pick their district (or auto-detect it) and view simple, visual, and local-language summaries of monthly and historical MGNREGA performance, with comparison charts, badge-based highlights, and offline-friendly caching of government API data.
+# MGNREGA Management System
+
+A web application for managing MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act) program activities, including job card registration, work allocation, attendance tracking, and wage payment management.
+
+## Features
+
+- User authentication (Admin, Officer, Worker)
+- Job card registration and management
+- Work project creation and allocation
+- Attendance tracking
+- Wage calculation and payment management
+- Reports and analytics
+
+## Technology Stack
+
+- Frontend: React.js with Material-UI
+- Backend: Node.js with Express
+- Database: MongoDB
+- Authentication: JWT (JSON Web Tokens)
